@@ -476,6 +476,21 @@
           }
         }
       },
+      "SIPSorceryMedia.Encoders/8.0.7": {
+        "type": "package",
+        "dependencies": {
+          "SIPSorceryMedia.Abstractions": "8.0.7"
+        },
+        "compile": {
+          "lib/netstandard2.0/SIPSorceryMedia.Encoders.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SIPSorceryMedia.Encoders.dll": {}
+        },
+        "build": {
+          "build/SIPSorceryMedia.Encoders.targets": {}
+        }
+      },
       "SIPSorceryMedia.Windows/8.0.14": {
         "type": "package",
         "dependencies": {
@@ -2074,6 +2089,23 @@
         "lib/netstandard2.1/SIPSorceryMedia.Abstractions.xml",
         "sipsorcerymedia.abstractions.8.0.12.nupkg.sha512",
         "sipsorcerymedia.abstractions.nuspec"
+      ]
+    },
+    "SIPSorceryMedia.Encoders/8.0.7": {
+      "sha512": "nfMqdeQCW0Z122QAbxpuQuanLtvF11a1QcsweAAv76Qo6lQglVLsKGoo9idVxxFU3U79r2afaFq/EMyNSe5phQ==",
+      "type": "package",
+      "path": "sipsorcerymedia.encoders/8.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/SIPSorceryMedia.Encoders.targets",
+        "build/x64/vpxmd.dll",
+        "build/x86/vpxmd.dll",
+        "icon.png",
+        "lib/net461/SIPSorceryMedia.Encoders.dll",
+        "lib/netstandard2.0/SIPSorceryMedia.Encoders.dll",
+        "sipsorcerymedia.encoders.8.0.7.nupkg.sha512",
+        "sipsorcerymedia.encoders.nuspec"
       ]
     },
     "SIPSorceryMedia.Windows/8.0.14": {
@@ -4535,6 +4567,7 @@
   "projectFileDependencyGroups": {
     "net8.0-windows10.0.17763": [
       "SIPSorcery >= 8.0.23",
+      "SIPSorceryMedia.Encoders >= 8.0.7",
       "SIPSorceryMedia.Windows >= 8.0.14"
     ]
   },
@@ -4592,6 +4625,10 @@
           "SIPSorcery": {
             "target": "Package",
             "version": "[8.0.23, )"
+          },
+          "SIPSorceryMedia.Encoders": {
+            "target": "Package",
+            "version": "[8.0.7, )"
           },
           "SIPSorceryMedia.Windows": {
             "target": "Package",

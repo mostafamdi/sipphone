@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vgtOK6l4h/Q=",
+  "dgSpecHash": "Cg/NTl1dCVU=",
   "success": true,
   "projectFilePath": "C:\\Users\\mostafa\\source\\repos\\sipphone3\\sipphone3\\sipphone3.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\mostafa\\.nuget\\packages\\sipsorcery\\8.0.23\\sipsorcery.8.0.23.nupkg.sha512",
     "C:\\Users\\mostafa\\.nuget\\packages\\sipsorcery.websocketsharp\\0.0.1\\sipsorcery.websocketsharp.0.0.1.nupkg.sha512",
     "C:\\Users\\mostafa\\.nuget\\packages\\sipsorcerymedia.abstractions\\8.0.12\\sipsorcerymedia.abstractions.8.0.12.nupkg.sha512",
+    "C:\\Users\\mostafa\\.nuget\\packages\\sipsorcerymedia.encoders\\8.0.7\\sipsorcerymedia.encoders.8.0.7.nupkg.sha512",
     "C:\\Users\\mostafa\\.nuget\\packages\\sipsorcerymedia.windows\\8.0.14\\sipsorcerymedia.windows.8.0.14.nupkg.sha512",
     "C:\\Users\\mostafa\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\mostafa\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",

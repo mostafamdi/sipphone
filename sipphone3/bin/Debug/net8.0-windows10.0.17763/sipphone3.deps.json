@@ -9,6 +9,7 @@
       "sipphone3/1.0.0": {
         "dependencies": {
           "SIPSorcery": "8.0.23",
+          "SIPSorceryMedia.Encoders": "8.0.7",
           "SIPSorceryMedia.Windows": "8.0.14",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.17763.57"
         },
@@ -253,6 +254,17 @@
           "lib/net8.0/SIPSorceryMedia.Abstractions.dll": {
             "assemblyVersion": "8.0.12.0",
             "fileVersion": "8.0.12.0"
+          }
+        }
+      },
+      "SIPSorceryMedia.Encoders/8.0.7": {
+        "dependencies": {
+          "SIPSorceryMedia.Abstractions": "8.0.12"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SIPSorceryMedia.Encoders.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -994,6 +1006,13 @@
       "sha512": "sha512-70bYl3RFc0lkL6Z2M2GD/vymnWvmnvTSJfEpFHE4Uh+bp5Rz9DWsEvuF8EZEhaW3foPGvpNIfP5nGj52cCXjgw==",
       "path": "sipsorcerymedia.abstractions/8.0.12",
       "hashPath": "sipsorcerymedia.abstractions.8.0.12.nupkg.sha512"
+    },
+    "SIPSorceryMedia.Encoders/8.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nfMqdeQCW0Z122QAbxpuQuanLtvF11a1QcsweAAv76Qo6lQglVLsKGoo9idVxxFU3U79r2afaFq/EMyNSe5phQ==",
+      "path": "sipsorcerymedia.encoders/8.0.7",
+      "hashPath": "sipsorcerymedia.encoders.8.0.7.nupkg.sha512"
     },
     "SIPSorceryMedia.Windows/8.0.14": {
       "type": "package",

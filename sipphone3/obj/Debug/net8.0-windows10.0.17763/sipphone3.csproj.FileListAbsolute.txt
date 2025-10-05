@@ -35,3 +35,6 @@ C:\Users\mostafa\source\repos\sipphone3\sipphone3\obj\Debug\net8.0-windows10.0.1
 C:\Users\mostafa\source\repos\sipphone3\sipphone3\obj\Debug\net8.0-windows10.0.17763\sipphone3.pdb
 C:\Users\mostafa\source\repos\sipphone3\sipphone3\obj\Debug\net8.0-windows10.0.17763\sipphone3.genruntimeconfig.cache
 C:\Users\mostafa\source\repos\sipphone3\sipphone3\obj\Debug\net8.0-windows10.0.17763\ref\sipphone3.dll
+C:\Users\mostafa\source\repos\sipphone3\sipphone3\bin\Debug\net8.0-windows10.0.17763\vpxmd.dll
+C:\Users\mostafa\source\repos\sipphone3\sipphone3\bin\Debug\net8.0-windows10.0.17763\SIPSorceryMedia.Encoders.dll
+C:\Users\mostafa\source\repos\sipphone3\sipphone3\obj\Debug\net8.0-windows10.0.17763\sipphone3.sourcelink.json
